@@ -16,6 +16,12 @@ To clear up the issues in the last graph with the outlieres here we are only com
 ![2022avgPct](https://i.gyazo.com/6861c25be93a164f75940aaabe6dfe6d.png)
 
 
+## Top Centers For 2022 Season 
+This graph show the top centers for the 2022 season. Comparing their block %, defensive rebound % based on how many games they started. Obvously if they havent started enough games in the season that can affect their %'s positivly or negativly as they dont hold much weight and its relyent on the low amount of games played. The names on the graph show the top centers that have a well amount of games played and still contend high in the %.
+![TopCenters](https://i.gyazo.com/7ef54aa0077164e196c8ffcd5cbfb3da.png)
+
+
+
 ## Predicting Award Share
 Award Share - The formula is (award points) / (maximum number of award points). For example, in the 2002-03 MVP voting Tim Duncan had 962 points out of a possible 1190. His MVP award share is 962 / 1190 = 0.81. [Referance](https://www.basketball-reference.com/about/glossary.html)
 
